@@ -18,9 +18,6 @@ def title() -> str:
     return random.choice(books)
 
 
-print(title())
-
-
 def year() -> int:
     """
     Функция генерации случайного натурального числа,
