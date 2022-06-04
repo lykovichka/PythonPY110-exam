@@ -1,7 +1,10 @@
 import random
 from faker import Faker
+import task2_4
 
 
+# @task2_4.task2 # Декоратор, проверяющий максимальную длину книги
+@task2_4.task4(22)  # Декоратор, проверяющий максимальную длину книги, с заданием максимального значения
 def title() -> str:
     """
     Функция рандомного выбора названия книги из созданного списка,
@@ -14,6 +17,10 @@ def title() -> str:
             books.append(book.strip())
     return random.choice(books)
 
+
+print(title())
+
+
 def year() -> int:
     """
     Функция генерации случайного натурального числа,
@@ -25,11 +32,10 @@ def year() -> int:
 
 
 def pages() -> int:
-    """"
+    """
     Функция генерации случайного натурального числа,
     подразумевающего количество страниц в книге.
     :return: случайное целое число
-
     """
     return random.randint(70, 600)
 
@@ -54,7 +60,6 @@ def rating() -> float:
     return round(random.uniform(0, 5), 1)
 
 
-
 def price() -> float:
     """"
     Функция генерации случайного числа c плавающей запятой,
@@ -63,7 +68,6 @@ def price() -> float:
     """
 
     return round(random.uniform(500, 5000), 2)
-
 
 
 def author() -> list:
