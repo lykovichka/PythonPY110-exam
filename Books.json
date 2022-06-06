@@ -1,0 +1,1592 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1970,
+            "pages": 555,
+            "isbn13": "978-0-85079-808-1",
+            "rating": 3.7,
+            "price": 3506.19,
+            "author": [
+                "Kelly Vargas",
+                "Michael Morales",
+                "Amy Floyd"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1851,
+            "pages": 553,
+            "isbn13": "978-0-446-06570-2",
+            "rating": 4.8,
+            "price": 2932.7,
+            "author": [
+                "Christina Davis",
+                "Emily Bean"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1883,
+            "pages": 384,
+            "isbn13": "978-1-274-73643-7",
+            "rating": 1.2,
+            "price": 3281.9,
+            "author": [
+                "Dawn Nichols",
+                "Julie Parsons",
+                "Mr. Justin Adkins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1925,
+            "pages": 351,
+            "isbn13": "978-1-5167-0079-0",
+            "rating": 2.5,
+            "price": 2039.12,
+            "author": [
+                "Ronald Olson",
+                "Thomas Herman",
+                "Jacob Gonzalez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1804,
+            "pages": 323,
+            "isbn13": "978-1-989687-55-0",
+            "rating": 4.7,
+            "price": 3818.04,
+            "author": [
+                "Michael Smith",
+                "Whitney Mitchell",
+                "Brenda Rose"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1964,
+            "pages": 176,
+            "isbn13": "978-0-00-072635-3",
+            "rating": 4.8,
+            "price": 2329.01,
+            "author": [
+                "Rachel Cole"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1924,
+            "pages": 153,
+            "isbn13": "978-1-4022-9715-1",
+            "rating": 4.0,
+            "price": 3779.1,
+            "author": [
+                "Alexander Harris",
+                "Daniel Pitts"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1841,
+            "pages": 294,
+            "isbn13": "978-1-4186-9391-6",
+            "rating": 3.7,
+            "price": 1882.11,
+            "author": [
+                "Mark Hill",
+                "Julia Wilson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1951,
+            "pages": 134,
+            "isbn13": "978-0-86710-402-8",
+            "rating": 1.3,
+            "price": 4151.34,
+            "author": [
+                "Johnathan Williams",
+                "Micheal Hill",
+                "Richard Anderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1906,
+            "pages": 89,
+            "isbn13": "978-1-75158-571-8",
+            "rating": 0.4,
+            "price": 3891.85,
+            "author": [
+                "Mr. Luis Moore Jr.",
+                "Cody Jones",
+                "Robert Ellis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1941,
+            "pages": 107,
+            "isbn13": "978-1-77955-973-9",
+            "rating": 1.2,
+            "price": 663.64,
+            "author": [
+                "Tracey Morales"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 16,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1893,
+            "pages": 192,
+            "isbn13": "978-0-19-387960-7",
+            "rating": 1.0,
+            "price": 4586.95,
+            "author": [
+                "Robert Dennis",
+                "Breanna Johns"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 17,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1943,
+            "pages": 179,
+            "isbn13": "978-1-55713-568-1",
+            "rating": 5.0,
+            "price": 1196.79,
+            "author": [
+                "Andrew Mitchell",
+                "Melissa Klein",
+                "Henry Dickerson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 18,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1814,
+            "pages": 132,
+            "isbn13": "978-0-368-64144-2",
+            "rating": 4.3,
+            "price": 1625.53,
+            "author": [
+                "Eric Craig",
+                "Diane Simpson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 19,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1823,
+            "pages": 268,
+            "isbn13": "978-1-114-44198-9",
+            "rating": 0.2,
+            "price": 682.68,
+            "author": [
+                "Isaiah Adams",
+                "Charles Sawyer"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 20,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1834,
+            "pages": 314,
+            "isbn13": "978-0-549-30170-7",
+            "rating": 1.1,
+            "price": 536.27,
+            "author": [
+                "Andrew Montoya"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 21,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1987,
+            "pages": 385,
+            "isbn13": "978-1-5018-1132-6",
+            "rating": 3.5,
+            "price": 1423.25,
+            "author": [
+                "Karen Caldwell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 22,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1845,
+            "pages": 314,
+            "isbn13": "978-1-79457-970-5",
+            "rating": 3.4,
+            "price": 4081.97,
+            "author": [
+                "Matthew Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 23,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1927,
+            "pages": 115,
+            "isbn13": "978-1-82582-256-5",
+            "rating": 2.0,
+            "price": 1911.74,
+            "author": [
+                "James Robertson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 24,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1841,
+            "pages": 302,
+            "isbn13": "978-1-4181-9211-2",
+            "rating": 3.5,
+            "price": 2801.87,
+            "author": [
+                "Barry Holt",
+                "Todd Mccarty",
+                "Lisa Fields"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 25,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1933,
+            "pages": 246,
+            "isbn13": "978-0-920754-95-5",
+            "rating": 3.5,
+            "price": 632.82,
+            "author": [
+                "Timothy Garcia"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 26,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1915,
+            "pages": 270,
+            "isbn13": "978-0-441-60611-5",
+            "rating": 0.3,
+            "price": 2220.37,
+            "author": [
+                "Robert Rogers",
+                "Tammy Mueller MD",
+                "David Blackburn"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 27,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1852,
+            "pages": 125,
+            "isbn13": "978-0-299-51378-8",
+            "rating": 1.6,
+            "price": 2812.65,
+            "author": [
+                "Tasha Howe"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 28,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1932,
+            "pages": 560,
+            "isbn13": "978-1-79573-426-4",
+            "rating": 0.2,
+            "price": 881.68,
+            "author": [
+                "Brittany Howell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 29,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1947,
+            "pages": 178,
+            "isbn13": "978-0-358-54460-9",
+            "rating": 1.3,
+            "price": 1029.21,
+            "author": [
+                "Marcus White",
+                "Reginald Wilkinson",
+                "George Walker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 30,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1823,
+            "pages": 568,
+            "isbn13": "978-1-399-15729-2",
+            "rating": 1.7,
+            "price": 4095.38,
+            "author": [
+                "Kimberly Barnes",
+                "Janice Collins"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 31,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1993,
+            "pages": 182,
+            "isbn13": "978-0-932863-96-6",
+            "rating": 4.1,
+            "price": 4824.96,
+            "author": [
+                "Andrew Mitchell",
+                "Arthur White"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 32,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 2005,
+            "pages": 232,
+            "isbn13": "978-1-68499-647-6",
+            "rating": 4.4,
+            "price": 2494.15,
+            "author": [
+                "Monica Turner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 33,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1959,
+            "pages": 578,
+            "isbn13": "978-0-936644-79-0",
+            "rating": 3.2,
+            "price": 2379.35,
+            "author": [
+                "Grace Riggs"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 34,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1944,
+            "pages": 377,
+            "isbn13": "978-0-7073-9820-4",
+            "rating": 1.9,
+            "price": 1927.08,
+            "author": [
+                "Joshua Garner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 35,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1903,
+            "pages": 440,
+            "isbn13": "978-0-279-86450-3",
+            "rating": 0.8,
+            "price": 4057.43,
+            "author": [
+                "Jordan Casey",
+                "Elizabeth Wise",
+                "Alan Sawyer"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 36,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1908,
+            "pages": 106,
+            "isbn13": "978-1-77302-410-3",
+            "rating": 2.2,
+            "price": 522.9,
+            "author": [
+                "Emma King",
+                "John Orr",
+                "Daniel Brooks"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 37,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1966,
+            "pages": 571,
+            "isbn13": "978-0-9854307-1-9",
+            "rating": 0.8,
+            "price": 3745.5,
+            "author": [
+                "Jacob Rogers",
+                "Megan Taylor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 38,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1871,
+            "pages": 130,
+            "isbn13": "978-0-624-90351-2",
+            "rating": 0.8,
+            "price": 2318.4,
+            "author": [
+                "Matthew Davidson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 39,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1979,
+            "pages": 584,
+            "isbn13": "978-0-412-00406-3",
+            "rating": 4.0,
+            "price": 2644.18,
+            "author": [
+                "Vanessa Martinez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 40,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1947,
+            "pages": 136,
+            "isbn13": "978-1-205-14362-4",
+            "rating": 0.3,
+            "price": 4033.5,
+            "author": [
+                "Jennifer Schultz"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 41,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1998,
+            "pages": 412,
+            "isbn13": "978-0-383-06309-0",
+            "rating": 0.4,
+            "price": 4044.39,
+            "author": [
+                "Terrance Wade",
+                "Evan Pollard"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 42,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1810,
+            "pages": 322,
+            "isbn13": "978-0-309-36971-8",
+            "rating": 0.3,
+            "price": 3430.12,
+            "author": [
+                "Peter Ramirez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 43,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1842,
+            "pages": 135,
+            "isbn13": "978-0-06-907635-2",
+            "rating": 2.0,
+            "price": 1862.13,
+            "author": [
+                "Barbara Bailey"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 44,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1914,
+            "pages": 340,
+            "isbn13": "978-1-4398-3365-0",
+            "rating": 2.2,
+            "price": 902.23,
+            "author": [
+                "Tamara Robinson DDS",
+                "Oscar Austin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 45,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 2003,
+            "pages": 192,
+            "isbn13": "978-0-636-77219-9",
+            "rating": 0.2,
+            "price": 2450.73,
+            "author": [
+                "Andre Stevens",
+                "Renee Freeman"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 46,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1849,
+            "pages": 318,
+            "isbn13": "978-0-538-75415-6",
+            "rating": 3.5,
+            "price": 2893.26,
+            "author": [
+                "Nicole Ortiz",
+                "Patricia Robertson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 47,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 2015,
+            "pages": 548,
+            "isbn13": "978-1-83325-217-0",
+            "rating": 4.6,
+            "price": 3550.89,
+            "author": [
+                "Vincent Day"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 48,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1922,
+            "pages": 272,
+            "isbn13": "978-1-306-61538-9",
+            "rating": 2.1,
+            "price": 4141.44,
+            "author": [
+                "Andrew Melton",
+                "Erik Tanner",
+                "Rachel Gonzales"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 49,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1930,
+            "pages": 584,
+            "isbn13": "978-1-78289-510-7",
+            "rating": 4.2,
+            "price": 1176.56,
+            "author": [
+                "Megan Graham"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 50,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1955,
+            "pages": 126,
+            "isbn13": "978-1-64236-238-1",
+            "rating": 1.2,
+            "price": 954.09,
+            "author": [
+                "Sheila Howard",
+                "Lori Garcia"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 51,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1836,
+            "pages": 168,
+            "isbn13": "978-1-922061-70-6",
+            "rating": 1.7,
+            "price": 3688.81,
+            "author": [
+                "Mr. Thomas Morales PhD",
+                "Lance Russell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 52,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1821,
+            "pages": 558,
+            "isbn13": "978-0-449-43916-6",
+            "rating": 1.3,
+            "price": 4098.89,
+            "author": [
+                "Roberto Diaz",
+                "Sarah Ibarra"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 53,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1865,
+            "pages": 388,
+            "isbn13": "978-0-550-19728-3",
+            "rating": 1.9,
+            "price": 4754.46,
+            "author": [
+                "Marcus Gentry"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 54,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1902,
+            "pages": 71,
+            "isbn13": "978-0-7116-4247-8",
+            "rating": 3.6,
+            "price": 4464.92,
+            "author": [
+                "William Ellis",
+                "Jordan Johnson",
+                "Matthew Howard"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 55,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1900,
+            "pages": 226,
+            "isbn13": "978-0-09-890933-1",
+            "rating": 2.0,
+            "price": 4855.23,
+            "author": [
+                "Carlos Morris",
+                "Denise Swanson",
+                "Rachel West"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 56,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1897,
+            "pages": 367,
+            "isbn13": "978-1-70717-912-1",
+            "rating": 1.2,
+            "price": 3453.3,
+            "author": [
+                "Stephen Brown"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 57,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1918,
+            "pages": 374,
+            "isbn13": "978-1-07-260266-8",
+            "rating": 4.6,
+            "price": 4778.08,
+            "author": [
+                "Daniel Washington Jr."
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 58,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1971,
+            "pages": 487,
+            "isbn13": "978-1-125-93529-3",
+            "rating": 2.6,
+            "price": 2514.74,
+            "author": [
+                "Kristin Hodge",
+                "Bridget Long",
+                "Karen Cook"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 59,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1821,
+            "pages": 153,
+            "isbn13": "978-1-250-53818-5",
+            "rating": 3.3,
+            "price": 943.65,
+            "author": [
+                "Ashley Skinner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 60,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1970,
+            "pages": 562,
+            "isbn13": "978-0-86218-851-1",
+            "rating": 4.3,
+            "price": 927.72,
+            "author": [
+                "Scott Henderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 61,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1819,
+            "pages": 305,
+            "isbn13": "978-1-336-00616-4",
+            "rating": 4.2,
+            "price": 2719.76,
+            "author": [
+                "Karen Odonnell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 62,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1806,
+            "pages": 276,
+            "isbn13": "978-0-572-12853-1",
+            "rating": 1.1,
+            "price": 3170.17,
+            "author": [
+                "Brian Perez",
+                "Regina Perkins",
+                "Lisa Gomez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 63,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 2017,
+            "pages": 374,
+            "isbn13": "978-1-904227-73-1",
+            "rating": 4.9,
+            "price": 1937.03,
+            "author": [
+                "Tonya Rosario",
+                "Patricia Kelly",
+                "Jeremiah Kennedy"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 64,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1813,
+            "pages": 139,
+            "isbn13": "978-1-86780-851-0",
+            "rating": 1.1,
+            "price": 1404.12,
+            "author": [
+                "Michael Montgomery",
+                "Wendy Phelps"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 65,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1989,
+            "pages": 105,
+            "isbn13": "978-0-387-35426-2",
+            "rating": 1.9,
+            "price": 1199.34,
+            "author": [
+                "Mary Greer",
+                "Christopher Craig",
+                "Alexander Cox"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 66,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1823,
+            "pages": 433,
+            "isbn13": "978-1-86041-887-7",
+            "rating": 0.1,
+            "price": 2358.66,
+            "author": [
+                "Nicholas Conner",
+                "Abigail Davis",
+                "Steven Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 67,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1897,
+            "pages": 513,
+            "isbn13": "978-1-64193-151-9",
+            "rating": 2.0,
+            "price": 4838.38,
+            "author": [
+                "Linda Owens",
+                "Monica Nelson",
+                "Johnny Palmer"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 68,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1956,
+            "pages": 85,
+            "isbn13": "978-1-83943-444-0",
+            "rating": 2.3,
+            "price": 3901.93,
+            "author": [
+                "Deborah Harper",
+                "Deborah Martinez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 69,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1806,
+            "pages": 572,
+            "isbn13": "978-0-232-47423-7",
+            "rating": 3.8,
+            "price": 1869.14,
+            "author": [
+                "Lauren Roberts",
+                "Allen Shaw"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 70,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1951,
+            "pages": 450,
+            "isbn13": "978-1-68120-802-2",
+            "rating": 3.2,
+            "price": 2005.72,
+            "author": [
+                "Tiffany Kim",
+                "Robin Tyler",
+                "Matthew Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 71,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1843,
+            "pages": 499,
+            "isbn13": "978-0-665-76887-3",
+            "rating": 4.7,
+            "price": 3126.69,
+            "author": [
+                "April Pope",
+                "Brandon Woods",
+                "Ralph Barker"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 72,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1967,
+            "pages": 367,
+            "isbn13": "978-1-335-83865-0",
+            "rating": 0.1,
+            "price": 3518.2,
+            "author": [
+                "Richard Saunders"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 73,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1928,
+            "pages": 524,
+            "isbn13": "978-0-629-13529-1",
+            "rating": 4.5,
+            "price": 733.0,
+            "author": [
+                "Katherine Mason",
+                "Angela Griffin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 74,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1933,
+            "pages": 428,
+            "isbn13": "978-0-475-07556-7",
+            "rating": 4.0,
+            "price": 4011.54,
+            "author": [
+                "Patricia Hall"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 75,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1963,
+            "pages": 159,
+            "isbn13": "978-0-399-31575-6",
+            "rating": 4.9,
+            "price": 1295.35,
+            "author": [
+                "Stephen Day"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 76,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1873,
+            "pages": 364,
+            "isbn13": "978-1-150-24425-4",
+            "rating": 1.2,
+            "price": 4880.93,
+            "author": [
+                "Mr. Taylor Baker",
+                "Edward Palmer",
+                "Vanessa Peterson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 77,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1821,
+            "pages": 207,
+            "isbn13": "978-1-03-017844-0",
+            "rating": 2.3,
+            "price": 2450.87,
+            "author": [
+                "Luis Parsons"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 78,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1888,
+            "pages": 351,
+            "isbn13": "978-0-262-16033-9",
+            "rating": 0.8,
+            "price": 2579.19,
+            "author": [
+                "Donald Webster",
+                "Bobby Gibbs"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 79,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1969,
+            "pages": 527,
+            "isbn13": "978-0-306-52382-3",
+            "rating": 4.7,
+            "price": 2071.65,
+            "author": [
+                "Steven Gonzalez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 80,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1999,
+            "pages": 459,
+            "isbn13": "978-1-77963-806-9",
+            "rating": 4.3,
+            "price": 1207.47,
+            "author": [
+                "Brenda Kennedy"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 81,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1847,
+            "pages": 518,
+            "isbn13": "978-0-7953-0558-0",
+            "rating": 1.9,
+            "price": 4958.69,
+            "author": [
+                "Holly Simmons"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 82,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1910,
+            "pages": 188,
+            "isbn13": "978-1-86218-580-7",
+            "rating": 1.9,
+            "price": 2587.66,
+            "author": [
+                "Michael Ray",
+                "Christopher Turner",
+                "James Miller"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 83,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1982,
+            "pages": 564,
+            "isbn13": "978-0-493-19519-3",
+            "rating": 4.0,
+            "price": 2324.17,
+            "author": [
+                "Sharon Good"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 84,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1832,
+            "pages": 426,
+            "isbn13": "978-1-133-89667-8",
+            "rating": 1.9,
+            "price": 3181.99,
+            "author": [
+                "Brianna Rasmussen"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 85,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1816,
+            "pages": 468,
+            "isbn13": "978-1-161-37269-4",
+            "rating": 0.6,
+            "price": 4403.92,
+            "author": [
+                "Shannon Callahan"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 86,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1895,
+            "pages": 363,
+            "isbn13": "978-0-00-948993-8",
+            "rating": 3.0,
+            "price": 2600.55,
+            "author": [
+                "Christine Johnson",
+                "Matthew Turner"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 87,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1936,
+            "pages": 131,
+            "isbn13": "978-1-70214-225-0",
+            "rating": 1.3,
+            "price": 4481.11,
+            "author": [
+                "Tonya Murphy",
+                "Felicia Owens",
+                "John Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 88,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1863,
+            "pages": 463,
+            "isbn13": "978-1-375-82259-6",
+            "rating": 3.6,
+            "price": 2785.91,
+            "author": [
+                "Lori Murphy",
+                "Melanie Brooks",
+                "Rachel Rogers"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 89,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1895,
+            "pages": 369,
+            "isbn13": "978-1-76525-200-2",
+            "rating": 0.3,
+            "price": 4638.87,
+            "author": [
+                "Gina Todd"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 90,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1825,
+            "pages": 152,
+            "isbn13": "978-0-17-120021-8",
+            "rating": 2.4,
+            "price": 3990.56,
+            "author": [
+                "Heather Newton"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 91,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1806,
+            "pages": 224,
+            "isbn13": "978-1-333-81419-9",
+            "rating": 0.6,
+            "price": 2209.78,
+            "author": [
+                "Benjamin Erickson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 92,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 2018,
+            "pages": 518,
+            "isbn13": "978-0-621-17628-5",
+            "rating": 1.3,
+            "price": 532.78,
+            "author": [
+                "Jessica Ball",
+                "Charles Campbell",
+                "Emily Solis"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 93,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1901,
+            "pages": 202,
+            "isbn13": "978-1-366-59286-6",
+            "rating": 5.0,
+            "price": 4204.94,
+            "author": [
+                "Ms. Abigail Crawford MD",
+                "John Cox",
+                "Nathan Campbell"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 94,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1965,
+            "pages": 395,
+            "isbn13": "978-1-313-70807-4",
+            "rating": 3.1,
+            "price": 711.96,
+            "author": [
+                "Karen Sampson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 95,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 1919,
+            "pages": 530,
+            "isbn13": "978-0-308-34717-5",
+            "rating": 3.6,
+            "price": 2398.07,
+            "author": [
+                "Bryan Taylor"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 96,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1806,
+            "pages": 392,
+            "isbn13": "978-1-873803-96-7",
+            "rating": 1.7,
+            "price": 549.2,
+            "author": [
+                "Meagan Diaz",
+                "Susan Franklin",
+                "Herbert Patel"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 97,
+        "fields": {
+            "title": "The Great Gatsby",
+            "year": 2013,
+            "pages": 174,
+            "isbn13": "978-0-05-307791-4",
+            "rating": 2.6,
+            "price": 3025.34,
+            "author": [
+                "Richard Johnson",
+                "Crystal Herrera",
+                "Donald Raymond"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 98,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1900,
+            "pages": 575,
+            "isbn13": "978-0-9683239-2-2",
+            "rating": 2.7,
+            "price": 4654.44,
+            "author": [
+                "Luis White",
+                "Jennifer Finley",
+                "Rachel Adams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 99,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1946,
+            "pages": 182,
+            "isbn13": "978-1-277-18601-7",
+            "rating": 1.7,
+            "price": 4473.97,
+            "author": [
+                "Cathy Warren"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 100,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1907,
+            "pages": 285,
+            "isbn13": "978-1-5339-3435-2",
+            "rating": 4.0,
+            "price": 3260.95,
+            "author": [
+                "Robert Gibbs",
+                "Tiffany Murphy"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 101,
+        "fields": {
+            "title": "The Catcher in the Rye",
+            "year": 1908,
+            "pages": 208,
+            "isbn13": "978-0-278-43839-2",
+            "rating": 0.8,
+            "price": 3633.48,
+            "author": [
+                "Patricia Beck",
+                "Teresa Ford"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 102,
+        "fields": {
+            "title": "The Da Vinci Code",
+            "year": 1982,
+            "pages": 217,
+            "isbn13": "978-0-518-17279-6",
+            "rating": 1.0,
+            "price": 2088.62,
+            "author": [
+                "Edward Cunningham"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 103,
+        "fields": {
+            "title": "Rich Dad, Poor Dad",
+            "year": 1908,
+            "pages": 420,
+            "isbn13": "978-1-81034-332-7",
+            "rating": 1.5,
+            "price": 1858.06,
+            "author": [
+                "Denise Snyder",
+                "Ashley Davila PhD"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 104,
+        "fields": {
+            "title": "Empire of angels",
+            "year": 1933,
+            "pages": 146,
+            "isbn13": "978-1-898420-86-6",
+            "rating": 1.6,
+            "price": 3527.03,
+            "author": [
+                "Cindy Banks",
+                "Angela Arnold"
+            ]
+        }
+    }
+]
